@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/electric-dil/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Electric Dil](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/electric-dil/) |
+| **Get License** | [Obtain a Music License for Electric Dil](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/electric-dil/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `40c55ed409affaaaedc168acd87bc7ea158d9a3c66140d75c6fa75f6c98908aa` |
 | **Timestamp** | May 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
