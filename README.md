@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/electric-dil/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Electric Dil](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/electric-dil/) |
+| **Get License** | [Music Rights & Licensing for Electric Dil](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/electric-dil/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dil di dhadkan ruk jave, when you look my way
+> Ankhiyan cho peeni aa, I don't care what they say
+> Nasha tera wakhra, driving me insane
+> Tenu apni banawanga, let them know the name
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
